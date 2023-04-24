@@ -11,14 +11,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/parthamallick313/Frontend-Mentor---QR-code-component)
-- Live Site URL: [Add live site URL here](https://qrcomponentfm.netlify.app/)
+- Solution URL: [https://github.com/parthamallick313/Frontend-Mentor---QR-code-component]()
+- Live Site URL: [https://qrcomponentfm.netlify.app/]()
 
 ## My process
 
@@ -31,5 +29,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Coded By - [Partha Mallick]
 - Frontend Mentor - [@parthamallick313](https://www.frontendmentor.io/profile/parthamallick313)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
